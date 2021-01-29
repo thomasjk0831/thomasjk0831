@@ -3,7 +3,7 @@ I'm a Full-Stack Web Developmer. I'm Eager to learn new things from others and a
 - 🔭 I’m currently working on a group project to combat homelessness
 - 🌱 I’m currently learning typescript
 - ⚡ Fun fact: I like to go on walks
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - 📫 Portfolio: https://tender-nobel-9d4f82.netlify.app/
 - 💬 Linkedin: https://www.linkedin.com/notifications/
 
