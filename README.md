@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Full-Stack Web Developer. I'm Eager to learn new things from others and always available to teach to those who need help.
+I'm a full-stack web developer. I'm eager to learn new things from others and always available to teach to those who need help.
 - 🔭 I’m currently volunteering as a front-end engineer with Greenstand
 - 🌱 I’m currently learning typescript
 - ⚡ Fun fact: I like to go on walks
