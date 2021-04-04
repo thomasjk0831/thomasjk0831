@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a full-stack web developer. I'm eager to learn new things from others and always available to teach to those who need help.
-- 🔭 I’m currently volunteering as a developer with Nebula Academy
+- 🔭 I’m currently learning Java
 - 🌱 I’m currently learning typescript
 - ⚡ Fun fact: I like to go on walks
 - 😄 Pronouns: He/Him
