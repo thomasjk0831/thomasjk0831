@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full-stack web developer. I'm eager to learn new things from others and always available to teach to those who need help.
-- 🔭 I’m currently a developer working for Nexient
-- 🌱 I’m currently learning typescript
+- 🔭 I’m currently a developer working for NTT Data
+- 🌱 I’m currently learning devops
 - ⚡ Fun fact: I like to go on walks
 
 - 📫 Portfolio: https://tender-nobel-9d4f82.netlify.app/
